@@ -53,7 +53,7 @@ we are going to talk about the progress to the current paradigm of ***Agentic co
 | GitHub Copilot | GitHub / Microsoft | IDE assistant  | 2021 Q2 |
 | Code Llama | Meta | Open model (self-hosted) | 2023 Q3 |
 
-*Sources: see [`sources.md`](sources.md#tools-release-quarter).*
+Sources for release quarters.[^survey-tools]
 
 ### Jargon <span style="color:#0969da;">*double check me*</span>
 | Term | Definition |
@@ -63,7 +63,7 @@ we are going to talk about the progress to the current paradigm of ***Agentic co
 | Autonomous agent | System that can carry a ticket or task end-to-end with little step-by-step prompting. |
 | Multi-agent workflow | Several specialized agents or tools coordinated to split work (planner, coder, reviewer). |
 
-*Sources: see [`sources.md`](sources.md#jargon). Older / general terms: [`zold/legacy-jargon.md`](zold/legacy-jargon.md).*
+Sources and older vocabulary.[^survey-jargon]
 
 > [!TIP]
 > How to keep your head straight? Practice with **definition comparisons**.
@@ -136,10 +136,7 @@ Agentic systems (e.g. Claude Code)
 
 "We give you two out of three rights. Agentic systems can access sensitive information, it can execute code, and it can communicate externally."
 
-"We could keep things safe if we gave you two out of those three capabilities at any time, but not all three."[^1]
-
-[^1]: [Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494](https://www.youtube.com/watch?v=vif8NQcjVf0)
-
+"We could keep things safe if we gave you two out of those three capabilities at any time, but not all three."[^nvidia-lex]
 
 # Homework ... where do we go from here
 <p align="center">
@@ -157,3 +154,9 @@ Homework
 
 
 ***E.G. from me - publication quality plots***
+
+[^survey-tools]: [Tools (release quarter)](sources.md#tools-release-quarter) in `sources.md`.
+
+[^survey-jargon]: [Jargon](sources.md#jargon) in `sources.md`. Older / general terms: [`zold/legacy-jargon.md`](zold/legacy-jargon.md).
+
+[^nvidia-lex]: [Jensen Huang: NVIDIA — The $4 Trillion Company & the AI Revolution — Lex Fridman Podcast #494](https://www.youtube.com/watch?v=vif8NQcjVf0)
