@@ -113,12 +113,15 @@ Agentic systems (e.g. Claude Code)
 ***Spend your time as a designer and architech; let the AI build.***
 
 
-### quick notes
-What do you wish you didn't have to do / end of the day low energy brain tasks 
-Requires your expertise and judgement and review, but is repetitive the .... Codify and scale
+### Ask yourself
+* What do you wish you didn't have to do?
+* What drains my energy and I put it off to garbage time?
 
+**My answer: Email!**
 
-It has to do the repetative stuff - not the top of the job description
+* What do I do that is repetitive?
+* What requires my expertise to set up, but not to do?
+* What should I be delegating?
 
 ## Today: How to get it done?
 ### Plan mode
@@ -149,7 +152,7 @@ It has to do the repetative stuff - not the top of the job description
 
 
 Homework
-Pick a workflow (repetative, draining)
+Pick a workflow (repetitive, draining)
 Write out the steps
 Determine the 80% that's routine
 The 20% that requires judgement
