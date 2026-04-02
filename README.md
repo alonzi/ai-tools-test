@@ -148,19 +148,12 @@ Agentic systems (e.g. Claude Code)
 
 
 Homework
-Pick a workflow (repetitive, draining)
-Write out the steps
-Determine the 80% that's routine
-The 20% that requires judgement
-Build the system
+1. Pick a workflow (repetitive, draining, delegatable)
+2. Write out the steps
+3. Determine the 80% that's routine
+4. The 20% that requires judgement
+5. Build the system
 
 
 
-Eg for me - publication quality plots
-Paper
-Screen
-Projection
-80% standard
-Then I interested the last 20%
-
-
+***E.G. from me - publication quality plots***
