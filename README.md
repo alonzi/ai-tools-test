@@ -39,19 +39,19 @@ we are going to talk about the progress to the current paradigm of ***Agentic co
 # Survey of Landscape
 
 ### Tools
-| Tool | Company | Category | Release Quarter | Popularity |
-|------|---------|----------|-----------------|------------|
-| GitHub Copilot | GitHub / Microsoft | IDE assistant  | 2021 Q2 | High |
-| Aider | Open source | CLI (git-centric) | 2023 Q2 | Medium |
-| Claude Code | Anthropic | Agentic coding (CLI/IDE) | 2025 Q1 | Medium |
-| Code Llama | Meta | Open model (self-hosted) | 2023 Q3 | Medium |
-| Cursor | Anysphere | AI-native IDE | 2023 | Medium |
-| Gemini Code Assist  | Google | IDE + CLI assistant | 2024 Q2 | Medium |
-| OpenAI Codex | OpenAI | Agentic coding (cloud/CLI) | 2021 Q3 | Medium |
-| Replit Ghostwriter | Replit | Cloud IDE assistant | 2022 Q4 | Medium |
-| Devin | Cognition AI | Autonomous agent | 2024 Q1 | Emerging |
-| OpenClaw | Open source | Agent tooling ecosystem | — | Emerging |
-| Windsurf (Cascade) | Codeium / Exafunction | Agentic IDE | 2024 Q4 | Emerging |
+| Tool | Company | Category | Release Quarter |
+|------|---------|----------|-----------------|
+| GitHub Copilot | GitHub / Microsoft | IDE assistant  | 2021 Q2 |
+| Aider | Open source | CLI (git-centric) | 2023 Q2 |
+| Claude Code | Anthropic | Agentic coding (CLI/IDE) | 2025 Q1 |
+| Code Llama | Meta | Open model (self-hosted) | 2023 Q3 |
+| Cursor | Anysphere | AI-native IDE | 2023 |
+| Gemini Code Assist  | Google | IDE + CLI assistant | 2024 Q2 |
+| OpenAI Codex | OpenAI | Agentic coding (cloud/CLI) | 2021 Q3 |
+| Replit Ghostwriter | Replit | Cloud IDE assistant | 2022 Q4 |
+| Devin | Cognition AI | Autonomous agent | 2024 Q1 |
+| OpenClaw | Open source | Agent tooling ecosystem | — |
+| Windsurf (Cascade) | Codeium / Exafunction | Agentic IDE | 2024 Q4 |
 
 *Sources: see [`sources.md`](sources.md#tools-release-quarter).*
 
@@ -67,9 +67,9 @@ we are going to talk about the progress to the current paradigm of ***Agentic co
 *Sources: see [`sources.md`](sources.md#jargon). Older / general terms: [`zold/legacy-jargon.md`](zold/legacy-jargon.md).*
 
 > [!TIP]
-> How to keep your head straight? Use **definition comparisons**—walk the contrast pairs below like a template.
+> How to keep your head straight? Practice with **definition comparisons**.
 
-### Claude Cowork vs. Claude Code
+### E.G. Claude Cowork vs. Claude Code
 Cowork has had a faster adoption and so far is reaching a broader audience because it is designed to be more general purpose than Claude Code. Claude code is a CLI interface built for programming tasks where as Claude Cowork is app based and handles a broad range of tasks like making presentations (I'll believe that when I see it).
 
 ### Try these on for practice later
@@ -78,8 +78,6 @@ Cowork has had a faster adoption and so far is reaching a broader audience becau
 * Claude Code vs. OpenClaw
 
 
-
-### Purpose
 
 
 ## Steps from Chat Copy Pasta to Integrated AI Environment to Agentic
