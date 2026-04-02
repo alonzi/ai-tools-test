@@ -66,15 +66,13 @@ we are going to talk about the progress to the current paradigm of ***Agentic co
 
 *Sources: see [`sources.md`](sources.md#jargon). Older / general terms: [`zold/legacy-jargon.md`](zold/legacy-jargon.md).*
 
+> [!TIP]
+> How to keep your head straight? Use **definition comparisons**—walk the contrast pairs below like a template.
 
-GFM tip - how to keep your head straight? definition comparisons
-Claude Cowork vs. Claude Code
+### Claude Cowork vs. Claude Code
+Cowork has had a faster adoption and so far is reaching a broader audience because it is designed to be more general purpose than Claude Code. Claude code is a CLI interface built for programming tasks where as Claude Cowork is app based and handles a broad range of tasks like making presentations (I'll believe that when I see it).
 
-* Cowork - broader audience
-* Code - built for programming tasks
-* Cowork - app based, Code - CLI based
-
-### Try these on yourself later
+### Try these on for practice later
 * Copilot vs. Cursor
 * Claude Code vs. Cursor
 * Claude Code vs. OpenClaw
