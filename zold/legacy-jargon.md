@@ -16,5 +16,6 @@ These terms were moved out of the main Survey jargon table in `README.md` in fav
 | Repo-wide context | Understanding/operating across a whole codebase, not a single file | 2023 | Medium |
 | Sandbox execution | Running tasks/commands in an isolated environment for safety/reproducibility | — | Medium |
 | Policy-as-markdown | Expressing workflow/quality/security rules as versioned text (often enforced in PR/CI) | 2017 | Emerging |
+| Agent tooling ecosystem | Loosely coupled open tools, plugins, and runtimes that let you wire agents into IDEs, CLIs, chat, and your own infra (often self-hosted or swappable). | — | — |
 
 *Sources for dates: see [`sources.md`](../sources.md).*

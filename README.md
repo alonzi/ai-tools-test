@@ -41,17 +41,17 @@ we are going to talk about the progress to the current paradigm of ***Agentic co
 ### Tools
 | Tool | Company | Category | Release Quarter |
 |------|---------|----------|-----------------|
-| GitHub Copilot | GitHub / Microsoft | IDE assistant  | 2021 Q2 |
-| Aider | Open source | CLI (git-centric) | 2023 Q2 |
-| Claude Code | Anthropic | Agentic coding (CLI/IDE) | 2025 Q1 |
-| Code Llama | Meta | Open model (self-hosted) | 2023 Q3 |
-| Cursor | Anysphere | AI-native IDE | 2023 |
-| Gemini Code Assist  | Google | IDE + CLI assistant | 2024 Q2 |
-| OpenAI Codex | OpenAI | Agentic coding (cloud/CLI) | 2021 Q3 |
-| Replit Ghostwriter | Replit | Cloud IDE assistant | 2022 Q4 |
-| Devin | Cognition AI | Autonomous agent | 2024 Q1 |
 | OpenClaw | Open source | Agent tooling ecosystem | — |
 | Windsurf (Cascade) | Codeium / Exafunction | Agentic IDE | 2024 Q4 |
+| Claude Code | Anthropic | Agentic coding (CLI/IDE) | 2025 Q1 |
+| OpenAI Codex | OpenAI | Agentic coding (cloud/CLI) | 2021 Q3 |
+| Cursor | Anysphere | AI-native IDE | 2023 |
+| Devin | Cognition AI | Autonomous agent | 2024 Q1 |
+| Aider | Open source | CLI (git-centric) | 2023 Q2 |
+| Replit Ghostwriter | Replit | Cloud IDE assistant | 2022 Q4 |
+| Gemini Code Assist  | Google | IDE + CLI assistant | 2024 Q2 |
+| GitHub Copilot | GitHub / Microsoft | IDE assistant  | 2021 Q2 |
+| Code Llama | Meta | Open model (self-hosted) | 2023 Q3 |
 
 *Sources: see [`sources.md`](sources.md#tools-release-quarter).*
 
@@ -62,7 +62,6 @@ we are going to talk about the progress to the current paradigm of ***Agentic co
 | AI-native IDE | Editor built around AI from the start (repo-wide chat/edits), not only a plugin on a classic IDE. |
 | Autonomous agent | System that can carry a ticket or task end-to-end with little step-by-step prompting. |
 | Multi-agent workflow | Several specialized agents or tools coordinated to split work (planner, coder, reviewer). |
-| Agent tooling ecosystem | Loosely coupled open tools, plugins, and runtimes that let you wire agents into IDEs, CLIs, chat, and your own infra (often self-hosted or swappable). |
 
 *Sources: see [`sources.md`](sources.md#jargon). Older / general terms: [`zold/legacy-jargon.md`](zold/legacy-jargon.md).*
 
@@ -105,12 +104,13 @@ Agentic systems (e.g. Claude Code)
 
 # Today: What's my use case?
 
-### AI strong on middle to middle, not end to end.
+### AI is strong on middle to middle, not end to end.
 * Goals and problem definition live with the human.
-* Project milestones and execution live with the AI.
 * Evaluations live with the human.
+* Project milestones live with the AI.
+* Project executions live with the AI.
 
-* E.G.: You can spend your time as a designer and architech and let the AI build.
+***Spend your time as a designer and architech; let the AI build.***
 
 
 ### quick notes

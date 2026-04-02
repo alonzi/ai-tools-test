@@ -50,9 +50,6 @@ This file holds the detailed sources behind the *Survey of Landscape* tables in 
 ### Multi-agent workflow
 - `https://arxiv.org/abs/2306.03314v1` (submitted Jun 5, 2023)
 
-### Agent tooling ecosystem
-- `from-cursor/AI_Tools_Landscape_Brown_Bag_2026.md` (OpenClaw: open-source agent tooling + integrations)
-
 ## Legacy jargon (archived table)
 Moved to [`zold/legacy-jargon.md`](zold/legacy-jargon.md). Source URLs for those rows (years / popularity) are kept below for convenience.
 
@@ -76,3 +73,6 @@ Moved to [`zold/legacy-jargon.md`](zold/legacy-jargon.md). Source URLs for those
 
 ### PR / CI AI checks — 2026
 - `https://blog.continue.dev/from-extension-to-mission-control` (Feb 17, 2026)
+
+### Agent tooling ecosystem — —
+- `from-cursor/AI_Tools_Landscape_Brown_Bag_2026.md` (OpenClaw: open-source agent tooling + integrations)
