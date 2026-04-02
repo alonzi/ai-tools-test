@@ -24,42 +24,64 @@ and
 
 "Claude code ... agentic coding tool" ~anthtopic
 
-Today we are going to talk about the progress to the current paradigm of ***Agentic coding***.
+Today...
+we are going to talk about the progress to the current paradigm of ***Agentic coding***.
+
+### Outline
+1. Survey of Landscape
+2. Today: What's my use case
+3. Homework
 
 
 
 
-## Companies and Toools
+## Survey of Landscape
 
+### Tools
 | Tool | Company | Category | Release Quarter | Popularity |
 |------|---------|----------|-----------------|------------|
+
+### Jargon
+| Term | Definition | Year of first appearance | Popularity |
+|------|------------|--------------------------|------------|
+|      |            |                          |            |
+
+### Purpose
 
 
 ## Steps from Chat Copy Pasta to Integrated AI Environment to Agentic
 
 
+## Today: What's my use case?
 
-# Plan mode
-
-# Cowork vs. claude code
-
-# Skills and MD profiles/configuration/rules
-(The-Complete-Guide-to-Building-Skill-for-Claude.pdf)[https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf]
-
-
+### Cowork vs. claude code
 
 ### quick notes
 What do you wish you didn't have to do / end of the day low energy brain tasks 
 Requires your expertise and judgement and review, but is repetitive the .... Codify and scale
+
+
 It has to do the repetative stuff - not the top of the job description
-Human in the loop - trust but verify - tests
+
+## Today: How to get it done?
+### Plan mode
 
 
-# 3 iron permissions of agentic coding
-3 pieces
-Execute code
-Communicate with outside
-File access
+### Skills and MD profiles/configuration/rules
+[The-Complete-Guide-to-Building-Skill-for-Claude.pdf](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
+
+
+
+
+### Human in the loop - trust but verify - tests
+
+
+### The 3 core permissions
+
+"We give you two out of three rights. Agentic systems can access sensitive information, it can execute code, and it can communicate externally."
+
+"We could keep things safe if we gave you two out of those three capabilities at any time, but not all three."
+
 
 
 # Homework ... where do we go from here
