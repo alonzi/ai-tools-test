@@ -45,19 +45,28 @@ This file holds the detailed sources behind the *Survey of Landscape* tables in 
 ### OpenClaw — —
 - (Not yet sourced; table entry remains `—`.)
 
-## Jargon (Year of first appearance)
+## Jargon
+
+### Agentic coding
+- `https://en.wikipedia.org/wiki/Agentic_coding`
+
+### AI-native IDE
+- `https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/` (uses “AI-native” for Cursor/Anysphere)
+
+### Autonomous agent
+- `https://en.wikipedia.org/wiki/Agentic_coding` (autonomous agent framing)
+
+### Multi-agent workflow
+- `https://arxiv.org/abs/2306.03314v1` (submitted Jun 5, 2023)
+
+## Legacy jargon (archived table)
+Moved to [`zold/legacy-jargon.md`](zold/legacy-jargon.md). Source URLs for those rows (years / popularity) are kept below for convenience.
 
 ### Human-in-the-loop — 1998
 - `https://en.wikipedia.org/wiki/Human-in-the-loop` (refers to DoD M&S Glossary, Jan 1998)
 
 ### Autocomplete tools — 1950s
 - `https://en.wikipedia.org/wiki/Autocomplete` (history: invented in the 1950s)
-
-### Agentic coding — 2024
-- `https://en.wikipedia.org/wiki/Agentic_coding`
-
-### AI-native IDE — 2023
-- `https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/` (uses “AI-native” for Cursor/Anysphere)
 
 ### Multi-file refactor — 1999
 - `https://martinfowler.com/books/refactoring.html` (first edition 1999)
@@ -66,17 +75,10 @@ This file holds the detailed sources behind the *Survey of Landscape* tables in 
 - `https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/` (codebase Q&A / project-level context framing)
 
 ### Sandbox execution — —
-- (Not yet sourced; table entry remains `—`.)
-
-### Autonomous agent — 2024
-- `https://en.wikipedia.org/wiki/Agentic_coding` (uses “autonomous agent” in the agentic coding framing)
-
-### Multi-agent workflow — 2023
-- `https://arxiv.org/abs/2306.03314v1` (submitted Jun 5, 2023)
+- (Not yet sourced; archived table entry was `—`.)
 
 ### Policy-as-markdown — 2017
 - `https://www.hashicorp.com/blog/why-policy-as-code` (mentions HashiConf 2017)
 
 ### PR checks (AI checks) — 2026
 - `https://blog.continue.dev/from-extension-to-mission-control` (Feb 17, 2026)
-

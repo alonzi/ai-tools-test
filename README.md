@@ -59,21 +59,14 @@ we are going to talk about the progress to the current paradigm of ***Agentic co
 *Sources: see [`sources.md`](sources.md#tools-release-quarter).*
 
 ### Jargon
-| Term | Definition | Year of first appearance | Popularity |
-|------|------------|--------------------------|------------|
-| Human-in-the-loop | Workflow where a person approves/reviews critical steps (edits, runs, merges) | 1998 | High |
-| Autocomplete tools | Inline completion/suggestion focused assistants (speeding up typing/boilerplate) | 1950s | High |
-| Agentic coding | Task-oriented workflows where the system plans and executes multi-step changes | 2024 | Medium |
-| AI-native IDE | Editor designed around AI workflows (repo-aware chat/edit), not just an add-on | 2023 | Medium |
-| Multi-file refactor | A change spanning many files coordinated by the tool/agent | 1999 | Medium |
-| Repo-wide context | Understanding/operating across a whole codebase, not a single file | 2023 | Medium |
-| Sandbox execution | Running tasks/commands in an isolated environment for safety/reproducibility | — | Medium |
-| Autonomous agent | Higher-autonomy system that can carry a ticket end-to-end with minimal supervision | 2024 | Emerging |
-| Multi-agent workflow | Delegating sub-tasks to multiple coordinated agents/tools | 2023 | Emerging |
-| Policy-as-markdown | Expressing workflow/quality/security rules as versioned text (often enforced in PR/CI) | 2017 | Emerging |
-| PR checks (AI checks) | Automated review/gating on pull requests using AI-defined rules | 2026 | Emerging |
+| Term | Definition |
+|------|------------|
+| Agentic coding | Task-oriented workflows where the system plans and executes multi-step changes across your repo. |
+| AI-native IDE | Editor built around AI from the start (repo-wide chat/edits), not only a plugin on a classic IDE. |
+| Autonomous agent | System that can carry a ticket or task end-to-end with little step-by-step prompting. |
+| Multi-agent workflow | Several specialized agents or tools coordinated to split work (planner, coder, reviewer). |
 
-*Sources: see [`sources.md`](sources.md#jargon-year-of-first-appearance).*
+*Sources: see [`sources.md`](sources.md#jargon). Older / general terms: [`zold/legacy-jargon.md`](zold/legacy-jargon.md).*
 
 
 ### Cowork vs. Claude Code
@@ -81,7 +74,6 @@ we are going to talk about the progress to the current paradigm of ***Agentic co
 ### Claude Code vs. Cursor
 ### Claude Code vs. OpenClaw
 
-**Sources for Survey tables (tools + jargon)**: `from-cursor/AI_Tools_Landscape_Brown_Bag_2026.md`, `from-copilot/Major_AI_Coding_and_Development_Tools_2026.md`, `from-copilot/AI_Tools_DS_vs_CS_Brown_Bag.md`, `from-chatGPT/summary-table.md`, `from-chatGPT/evolution.md`.
 
 **Web-scan candidates to add (not yet pulled from `from-*` sources)**:
 - Amazon Q Developer (AWS-focused assistant)
