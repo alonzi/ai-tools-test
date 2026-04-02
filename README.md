@@ -123,20 +123,16 @@ Agentic systems (e.g. Claude Code)
 * What requires my expertise to set up, but not to do?
 * What should I be delegating?
 
-## Today: How to get it done?
-### Plan mode
+### How to get it done?
 
+#### Plan mode
 
-### Skills and MD profiles/configuration/rules
+#### Skills and MD profiles/configuration/rules
 [The-Complete-Guide-to-Building-Skill-for-Claude.pdf](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
 
+#### Human in the loop - trust but verify - tests
 
-
-
-### Human in the loop - trust but verify - tests
-
-
-### The 3 core permissions
+#### The 3 core permissions
 
 "We give you two out of three rights. Agentic systems can access sensitive information, it can execute code, and it can communicate externally."
 
