@@ -63,7 +63,10 @@ File access
 
 
 # Homework ... where do we go from here
-![](images/ybr)
+<p align="center">
+  <img src="images/ybr.webp" alt="ybr" />
+</p>
+
 
 Homework
 Pick a workflow (repetative, draining)
