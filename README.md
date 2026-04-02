@@ -63,7 +63,7 @@ File access
 
 
 # Homework ... where do we go from here
-![](ybr)
+![](images/ybr)
 
 Homework
 Pick a workflow (repetative, draining)
