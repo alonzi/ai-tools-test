@@ -1,7 +1,10 @@
-# Tech Stack Notes: AI Tools Landscape (Brown Bag 2026)
+# Tech Stack Notes: AI Tools Landscape
 
-This repository contains working notes and source artifacts for a graduate-level brown bag talk on the AI coding tools landscape.
-It is organized for quick reuse: a polished one-pager, the original transcript source, and the seed prompt used to generate material.
+This repository contains working notes for a orientation level brown bag talk on the AI coding tools.
+
+## Cursor, and codex, and claude code ... oh my!
+
+Are you finding it hard to keep up with all the developments in AI coding? It seems like every month there is a new tool. Well, this Thursday (4/2) is your chance to eat some lunch and catch up on the latest developments. (Yes it will obsolete before you graduate, but practicing keeping up is going to be a key skill going forward 🙂).
 
 ## What is in this repo
 
