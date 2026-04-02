@@ -36,7 +36,7 @@ we are going to talk about the progress to the current paradigm of ***Agentic co
 
 
 
-## Survey of Landscape
+# Survey of Landscape
 
 ### Tools
 | Tool | Company | Category | Release Quarter | Popularity |
@@ -47,11 +47,8 @@ we are going to talk about the progress to the current paradigm of ***Agentic co
 | Code Llama | Meta | Open model (self-hosted) | 2023 Q3 | Medium |
 | Cursor | Anysphere | AI-native IDE | 2023 | Medium |
 | Gemini Code Assist / CLI | Google | IDE + CLI assistant | 2024 Q2 | Medium |
-| JetBrains AI Assistant | JetBrains | IDE assistant | 2023 Q2 | Medium |
 | OpenAI Codex | OpenAI | Agentic coding (cloud/CLI) | 2021 Q3 | Medium |
 | Replit Ghostwriter | Replit | Cloud IDE assistant | 2022 Q4 | Medium |
-| Tabnine | Tabnine | Autocomplete (privacy/on-prem) | 2018 Q4 | Medium |
-| Continue (AI checks) | Open source / commercial | PR/CI AI checks | 2023 Q2 | Emerging |
 | Devin | Cognition AI | Autonomous agent | 2024 Q1 | Emerging |
 | OpenClaw | Open source | Agent tooling ecosystem | — | Emerging |
 | Windsurf (Cascade) | Codeium / Exafunction | Agentic IDE | 2024 Q4 | Emerging |
@@ -65,23 +62,21 @@ we are going to talk about the progress to the current paradigm of ***Agentic co
 | AI-native IDE | Editor built around AI from the start (repo-wide chat/edits), not only a plugin on a classic IDE. |
 | Autonomous agent | System that can carry a ticket or task end-to-end with little step-by-step prompting. |
 | Multi-agent workflow | Several specialized agents or tools coordinated to split work (planner, coder, reviewer). |
+| Agent tooling ecosystem | Loosely coupled open tools, plugins, and runtimes that let you wire agents into IDEs, CLIs, chat, and your own infra (often self-hosted or swappable). |
 
 *Sources: see [`sources.md`](sources.md#jargon). Older / general terms: [`zold/legacy-jargon.md`](zold/legacy-jargon.md).*
 
 
-### Cowork vs. Claude Code
+### Claude Cowork vs. Claude Code
+
+* Cowork - broader audience
+* Code - built for programming tasks
+* Cowork - app based, Code - CLI based
 ### Copilot vs. Cursor
 ### Claude Code vs. Cursor
 ### Claude Code vs. OpenClaw
 
 
-**Web-scan candidates to add (not yet pulled from `from-*` sources)**:
-- Amazon Q Developer (AWS-focused assistant)
-- Cody (Sourcegraph) (large-codebase search + assistant)
-- Qodo (AI code review / PR-quality tooling)
-- Snyk Code (AI-assisted/security-oriented code scanning mentioned alongside AI dev tooling)
-- Bolt (`bolt.new`) (browser-based AI app builder)
-- Lovable (browser-based prompt-to-app builder)
 
 ### Purpose
 
@@ -109,7 +104,7 @@ Agentic systems (e.g. Claude Code)
 
 
 
-## Today: What's my use case?
+# Today: What's my use case?
 
 ### AI strong on middle to middle, not end to end.
 * Goals and problem definition live with the human.

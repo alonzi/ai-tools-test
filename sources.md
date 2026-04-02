@@ -15,12 +15,6 @@ This file holds the detailed sources behind the *Survey of Landscape* tables in 
 ### Aider — 2023 Q2
 - `https://api.github.com/repos/Aider-AI/aider` (`created_at`: 2023-05-09)
 
-### Continue — 2023 Q2
-- `https://api.github.com/repos/continuedev/continue` (`created_at`: 2023-05-24)
-
-### JetBrains AI Assistant — 2023 Q2
-- `https://blog.jetbrains.com/idea/2023/06/ai-assistant-in-jetbrains-ides/` (June 26, 2023)
-
 ### Cursor — 2023
 - `https://en.wikipedia.org/wiki/Cursor_(code_editor)` (initial release 2023)
 
@@ -39,9 +33,6 @@ This file holds the detailed sources behind the *Survey of Landscape* tables in 
 ### Claude Code — 2025 Q1
 - `https://api.github.com/repos/anthropics/claude-code` (`created_at`: 2025-02-22)
 
-### Tabnine — 2018 Q4
-- `https://api.github.com/repos/codota/TabNine` (`created_at`: 2018-11-06)
-
 ### OpenClaw — —
 - (Not yet sourced; table entry remains `—`.)
 
@@ -59,13 +50,16 @@ This file holds the detailed sources behind the *Survey of Landscape* tables in 
 ### Multi-agent workflow
 - `https://arxiv.org/abs/2306.03314v1` (submitted Jun 5, 2023)
 
+### Agent tooling ecosystem
+- `from-cursor/AI_Tools_Landscape_Brown_Bag_2026.md` (OpenClaw: open-source agent tooling + integrations)
+
 ## Legacy jargon (archived table)
 Moved to [`zold/legacy-jargon.md`](zold/legacy-jargon.md). Source URLs for those rows (years / popularity) are kept below for convenience.
 
 ### Human-in-the-loop — 1998
 - `https://en.wikipedia.org/wiki/Human-in-the-loop` (refers to DoD M&S Glossary, Jan 1998)
 
-### Autocomplete tools — 1950s
+### Autocomplete — 1950s
 - `https://en.wikipedia.org/wiki/Autocomplete` (history: invented in the 1950s)
 
 ### Multi-file refactor — 1999
@@ -80,5 +74,5 @@ Moved to [`zold/legacy-jargon.md`](zold/legacy-jargon.md). Source URLs for those
 ### Policy-as-markdown — 2017
 - `https://www.hashicorp.com/blog/why-policy-as-code` (mentions HashiConf 2017)
 
-### PR checks (AI checks) — 2026
+### PR / CI AI checks — 2026
 - `https://blog.continue.dev/from-extension-to-mission-control` (Feb 17, 2026)
